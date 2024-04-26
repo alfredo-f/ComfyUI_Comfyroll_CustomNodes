@@ -151,7 +151,7 @@ NODE_CLASS_MAPPINGS = {
     "CR Composite Text": CR_CompositeText, 
     #"CR Arabic Text RTL": CR_ArabicTextRTL,
     "CR Simple Text Watermark": CR_SimpleTextWatermark,
-    "CR Select Font": CR_SelectFont,    
+    # "CR Select Font": CR_SelectFont,
     ### Graphics Filter
     "CR Halftone Filter": CR_HalftoneFilter,
     "CR Color Tint": CR_ColorTint,
